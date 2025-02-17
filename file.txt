@@ -1,0 +1,7 @@
+Hello World
+Line 1: This is a large file.
+Line 2: Python makes file handling simple.
+Line 3: We can read files line by line.
+Line 4: This helps in processing big data files.
+Line 5: Efficient file handling is important.
+Line 6: The end.
